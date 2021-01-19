@@ -1,0 +1,2 @@
+# DataStructuresAndAlgorithmsCouseraPython
+Data Structures and algorithms coursera Python Solutions
